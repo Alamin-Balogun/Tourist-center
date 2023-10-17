@@ -1,0 +1,24 @@
+button
+{
+    height:50px;
+    width:350px;
+    padding-left:20px;
+    font-size:14pt;
+    background-color:#FF0033;
+}
+
+input[type=text]
+{
+    top: 500px;
+    width: 340px;
+    height: 50px;
+    font-size:14pt;
+    background-color:#C0C0C0;
+}
+
+table
+{
+   top: 150px; 
+   left: 500px;
+   border:5px solid #006633;
+}

@@ -1,0 +1,116 @@
+/*Row 1--*/
+#row1
+{
+    top:0px;
+    left:0px;
+    height:200px;
+    width:1488px;
+    background-color:#006633;
+    position:absolute;
+}
+
+/*Row 2--*/
+#row2
+{
+    top:100px;
+    left:0px;
+    height:100px;
+    width:1488px;
+    background-color:#C0C0C0;
+    position:absolute;
+}
+
+/*Row 3--*/
+#row3
+{
+    top:200px;
+    left:0px;
+    height:695px;
+    width:1488px;
+    background-color:#00cc;
+    position:absolute;
+}
+
+/*Row 3 --*/
+#td1
+{
+    left:500px;
+    width: 300px;
+    height: 200px;
+}
+
+#td2
+{
+    left: 500px;
+    width: 100px;
+    height: 10px;
+}
+
+#td3
+{
+    left: 500px;
+    width: 100px;
+    height: 10px;
+}
+
+#td4
+{
+    left: 500px;
+    width: 100px;
+    height: 10px;
+}
+
+.table1
+{
+    padding: 50px 20px;
+}
+.table2
+{
+    padding-left: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+}
+.table3
+{
+    padding: 50px 20px;
+}
+.table4
+{
+    padding: 50px 20px;
+}
+
+/*Row 4--*/
+#row4
+{
+    top:895px;
+    left:0px;
+    height:275px;
+    width:1488px;
+    background-color:#FF0033;
+    position:absolute;
+}
+
+#td5
+{
+    left: 500px;
+    width: 100px;
+    height: 10px;
+}
+
+#td6
+{
+    left: 500px;
+    width: 100px;
+    height: 10px;
+}
+
+#row5
+{
+    top:1150px;
+    left:0px;
+    height:100px;
+    width:1488px;
+    background-color:#CCFF66;
+    position:absolute;
+}
